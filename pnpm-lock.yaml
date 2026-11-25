@@ -1,0 +1,7 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+# Placeholder: run `pnpm install` to generate the real lockfile.
